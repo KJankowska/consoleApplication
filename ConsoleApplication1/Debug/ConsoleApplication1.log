@@ -1,0 +1,63 @@
+﻿  ConsoleApplication1.cpp
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(9): error C2065: "ofstream": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(9): error C2146: błąd składniowy: brakuje „;” przed identyfikatorem „myfileTxt”
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(9): error C2065: "myfileTxt": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(10): error C2065: "myfileTxt": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(11): error C2065: "myfileTxt": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(12): error C2065: "myfileTxt": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(15): error C2065: "ofstream": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(15): error C2146: błąd składniowy: brakuje „;” przed identyfikatorem „myfileXML”
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(15): error C2065: "myfileXML": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(16): error C2065: "myfileXML": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(17): error C2065: "myfileXML": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(18): error C2065: "myfileXML": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(21): error C2065: "string": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(21): error C2146: błąd składniowy: brakuje „;” przed identyfikatorem „st1”
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(21): error C2065: "st1": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(21): error C2065: "st2": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(23): error C2065: "cout": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(23): error C2065: "cin": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(23): error C2065: "st1": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(24): error C2065: "cout": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(24): error C2065: "cin": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(24): error C2065: "st2": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(26): error C2065: "fstream": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(26): error C2146: błąd składniowy: brakuje „;” przed identyfikatorem „plik”
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(26): error C2065: "plik": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(27): error C2065: "plik": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(27): error C2653: "ios": nie jest nazwą klasa lub nazwą przestrzeni nazw
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(27): error C2065: "out": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(27): error C2065: "app": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(29): error C2065: "plik": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(29): error C2065: "st1": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(29): error C2065: "endl": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(30): error C2065: "plik": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(30): error C2065: "st2": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(30): error C2065: "endl": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(32): error C2065: "plik": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(38): error C2065: "string": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(38): error C2146: błąd składniowy: brakuje „;” przed identyfikatorem „linia”
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(38): error C2065: "linia": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(41): error C2065: "fstream": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(41): error C2146: błąd składniowy: brakuje „;” przed identyfikatorem „plik”
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(41): error C2065: "plik": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(42): error C2065: "plik": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(42): error C2653: "ios": nie jest nazwą klasa lub nazwą przestrzeni nazw
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(42): error C2065: "in": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(44): error C2065: "plik": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(44): error C2065: "cout": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(46): error C2065: "plik": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(46): error C2065: "linia": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(46): error C3861: "getline": identyfikatora nie odnaleziono
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(50): error C2065: "st1": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(50): error C2065: "linia": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(51): error C2065: "st2": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(51): error C2065: "linia": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(56): error C2065: "plik": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(58): error C2065: "cout": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(58): error C2065: "st1": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(58): error C2065: "endl": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(59): error C2065: "cout": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(59): error C2065: "st2": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.h(59): error C2065: "endl": niezadeklarowany identyfikator
+c:\users\katarzyna\deskop\radmor\consoleapplication1\consoleapplication1\consoleapplication1.cpp(16): fatal error C1083: Nie można otworzyć pliku dołącz: 'rapidxml.hpp': No such file or directory
